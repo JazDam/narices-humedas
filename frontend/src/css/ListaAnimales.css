@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+hr{
+    height: 30px;
+    width: 300px;
+    background-color:#2ed1b5 ;
+    margin-bottom: 100px;
+}

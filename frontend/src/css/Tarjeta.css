@@ -1,0 +1,15 @@
+.tarjeta{
+    
+    width: 18rem;
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    margin-top: 50px
+    
+}
+.tarjeta-cuerpo{
+    border: solid 1px #2ed1b5 !important;
+}
+
+.tarjeta-titulo{
+    color:#2ed1b5 ;
+}

@@ -1,0 +1,26 @@
+
+
+.contiene{
+    background-image: url(../img/gatoagujero.png);
+    background-repeat: no-repeat; 
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 350px;
+    padding: 50px;
+    border-top: solid 1px #2ed1b5;
+    border-bottom: solid 1px #2ed1b5;
+    margin-top: 80px;
+}
+
+.social a{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.social label{
+    margin-left: 10px;
+}
+
+.foot-content{
+    margin-top: 0px;
+}

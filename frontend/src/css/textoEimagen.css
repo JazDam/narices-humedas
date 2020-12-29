@@ -1,0 +1,18 @@
+
+.caja img{
+    width: 500px;
+}
+.caja{
+    text-align: center;
+}
+.caja2{
+    text-align: end;
+}
+.recaudacion h1{
+    background-color: #2ed1b5 ;                          
+    display: block;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+}
